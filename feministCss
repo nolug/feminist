@@ -10,19 +10,42 @@ body{
 
 	#title {
 		color: white;
-		background-color: blue;
+		background-color: indigo;
 		padding: 10px;
 		display: inline-block;
-		border: 5px solid blue;
+		border: 5px solid indigo;
 		border-radius: 50px;
 	}
 
 	#description{
-		color: blue;
+		color: purple;
+		text-align: center;
+		vertical-align: middle;
 		display: inline-block;
-		font-size: 25px;
+		font-size: 50px;
 		background-color: white;
 		border-radius: 100px;
 		border: 5px solid purple;
 		padding: 20px;
+		width: 1000px;
 	}
+	#middle{
+	height: 350px;
+}
+button{
+	color:white;
+	background-color:indigo;
+	font-size: 50px;
+	border-radius:50px;
+	padding: 20px;
+
+}
+button:hover{
+	background-color:purple;
+}
+
+
+
+
+
+	
