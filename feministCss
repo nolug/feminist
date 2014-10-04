@@ -1,0 +1,28 @@
+body{
+		font-family: Helvetica, arial, sans-serif;
+		font-size: 30px;
+		color: #404040;
+		text-align: center;
+		background-image: url(http://fc08.deviantart.net/fs70/i/2011/037/d/4/free_use__pink_background_by_rannethepikachu_77-d38ziiv.jpg);
+		background-repeat: repeat;
+		margin:0px;
+	}
+
+	#title {
+		color: white;
+		background-color: blue;
+		padding: 10px;
+		display: inline-block;
+		border: 5px solid blue;
+		border-radius: 50px;
+	}
+
+	#description{
+		color: blue;
+		display: inline-block;
+		font-size: 25px;
+		background-color: white;
+		border-radius: 100px;
+		border: 5px solid purple;
+		padding: 20px;
+	}
